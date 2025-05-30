@@ -9,7 +9,7 @@ The platform is built using the **MERN stack**, which includes ReactJS, NodeJS, 
 <h2>Live link 🌍📡 - [  https://learnhub-opju.vercel.app/  ]</h2>
 <hr/>
 
-
+<img width="1403" alt="Image" src="https://github.com/user-attachments/assets/c1e7e8ec-9685-48ee-94ab-3db350291d11" />
 <img width='100%' src='https://github.com/BoddepallyVenkatesh06/LearnHub-E-Learning-Platform/blob/main/screenshots/home.png' />
 
 
